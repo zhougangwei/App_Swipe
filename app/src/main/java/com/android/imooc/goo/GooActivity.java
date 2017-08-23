@@ -23,6 +23,7 @@ public class GooActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		mGooView = new GooView(this);
 
+
 		setContentView(mGooView);
 	}
 }
