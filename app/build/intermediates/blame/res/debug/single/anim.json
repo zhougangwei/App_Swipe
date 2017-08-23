@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\App_Swipe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "H:\\App_Swipe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\App_Swipe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "H:\\App_Swipe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\App_Swipe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "H:\\App_Swipe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "H:\\App_Swipe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "H:\\App_Swipe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "H:\\App_Swipe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "H:\\App_Swipe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\App_Swipe\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "H:\\App_Swipe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_top.xml"
+    }
+]
